@@ -12,7 +12,7 @@
     "cli"
   ],
   "require": {
-    "oxid-esales/oxideshop-ce": "^6.5",
+    "oxid-esales/oxideshop-ce": "^v6.5",
     "guzzlehttp/guzzle": "^6.0",
     "composer/composer": "^1"
   },
