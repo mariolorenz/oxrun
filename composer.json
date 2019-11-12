@@ -14,7 +14,6 @@
   "require": {
     "oxid-esales/oxideshop-ce": "^6.5",
     "guzzlehttp/guzzle": "^6.0",
-    "raulfraile/distill": "0.9.*",
     "composer/composer": "^1"
   },
   "require-dev": {
